@@ -1,0 +1,15 @@
+h1 {
+ color: #0095DE; font-family:'Dancing Script',cursive
+} 
+body{
+    font-size: larger; font-style: normal; font-weight: bolder; font-variant: normal;
+}
+p{ font-variant: small-caps;
+ 
+}
+b {font-variant: small-caps;
+
+}
+li {
+    font-style: italic;
+}
